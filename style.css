@@ -7,11 +7,14 @@ h1 {
   display: inline-block;
   vertical-align: top;
 }
-p{
-    text-align: justify;
+h2 {
+  color: #3366ff;
+}
+p {
+  text-align: justify;
 }
 .navbar {
-  background-color: #00712d;
+  background-color: #118b50;
   margin: 20px 0;
   padding: 15px 30px;
   font-size: large;
@@ -19,12 +22,17 @@ p{
   vertical-align: top;
   text-align: center;
 }
-.open-nav{
-    color:#FFF;
+.open-nav {
+  color: #ffffff;
 }
-.close-nav{
-    color:#ECE852;
-    text-decoration: none;
+.close-nav {
+  color: #ffffff;
+  text-decoration: none;
 }
-
-    /* background-color: #FFFBE6; #5CB338; #FFC145; #FB4141;*/
+.text-highlight {
+  color: #118b50;
+  font-weight: bold;
+}
+.top-navigation {
+  margin-left: 725px;
+}
