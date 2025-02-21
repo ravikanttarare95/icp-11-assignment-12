@@ -1,0 +1,30 @@
+.main-logo {
+  height: 150px;
+  display: inline-block;
+  vertical-align: top;
+}
+h1 {
+  display: inline-block;
+  vertical-align: top;
+}
+p{
+    text-align: justify;
+}
+.navbar {
+  background-color: #00712d;
+  margin: 20px 0;
+  padding: 15px 30px;
+  font-size: large;
+  font-weight: bold;
+  vertical-align: top;
+  text-align: center;
+}
+.open-nav{
+    color:#FFF;
+}
+.close-nav{
+    color:#ECE852;
+    text-decoration: none;
+}
+
+    /* background-color: #FFFBE6; #5CB338; #FFC145; #FB4141;*/
