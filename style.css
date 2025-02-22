@@ -29,6 +29,9 @@ p {
   color: #ffffff;
   text-decoration: none;
 }
+.nav-text:hover {
+  color: #ffe31a;
+}
 .text-highlight {
   color: #118b50;
   font-weight: bold;
@@ -36,3 +39,6 @@ p {
 .top-navigation {
   margin-left: 725px;
 }
+/* body{
+  background-color: #FFF0BD;
+} */
